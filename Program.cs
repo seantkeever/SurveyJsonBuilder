@@ -8,9 +8,13 @@ namespace SurveyJsonBuilder
     {
         static void Main(string[] args)
         {
-            Question inputData = new Question("Test Description", true, true);
-            Console.WriteLine(JsonConvert.SerializeObject(inputData));
+            //Question inputData = new Question("Total SSL Certificate(s)?", true, true);
+            //Console.WriteLine(JsonConvert.SerializeObject(inputData));
+            //Console.WriteLine(inputData);
 
+
+            Answer inputData = new Answer(1, true, null);
+            Console.WriteLine(JsonConvert.SerializeObject(inputData));
             Console.WriteLine(inputData);
         }
     }
