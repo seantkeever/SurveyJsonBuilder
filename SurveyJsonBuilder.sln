@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyJsonBuilder", "SurveyJsonBuilder.csproj", "{2737766E-677E-4AFC-8265-C3F350B7AD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2737766E-677E-4AFC-8265-C3F350B7AD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2737766E-677E-4AFC-8265-C3F350B7AD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2737766E-677E-4AFC-8265-C3F350B7AD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2737766E-677E-4AFC-8265-C3F350B7AD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {711BED73-E548-4C95-AA48-2481A018DB21}
+	EndGlobalSection
+EndGlobal
